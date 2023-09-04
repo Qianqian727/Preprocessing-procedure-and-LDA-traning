@@ -1,0 +1,821 @@
+clinical guidelines
+clinical guideline
+clinical practice guideline
+"white coat" hypertension
+ACE inhibitors
+ACEI
+ACS
+AHT
+AIE
+AIN
+AMD
+AMI
+ANF
+ARVC
+ASD
+ASH
+ATG
+ATP-sensitive K+
+ATP-sensitive potassium
+ATP-sensitive potassium channels
+AV junctional escape beats
+AV junctional rhythm
+AVNRT
+Acute coronary syndrome
+Acute interstitial nephritis
+Adenosine 3',5'-cyclic monophosphate
+Amiodarone
+Angiocardiography
+Angiography
+Angioscopy
+Ankle Brachial Index
+Anti-Arrhythmia Agents
+Antihypertensive Agents
+Aortic aneurysm
+Aortic aneyrysm
+Aortic arch syndrome
+Aortic valve disease
+Aortography
+Arrhythmia
+Arterial Pressure 
+Arterial Switch Operation
+Arterial hypertension
+Atrial Pressure
+Atrioventricular reentrant tachycardia
+Autonomic nervous system
+BIN-1
+BIN1
+BMI
+Ballistocardiography
+Baroreflex
+Blood Circulation Time
+Blood Circulation Time
+Blood Flow Velocity
+Blood Flow Velocity
+Blood Flow Velocity
+Blood Gas Monitoring
+Blood Pressure
+Blood Pressure Determination
+Blood Pressure Determination
+Blood Pressure Monitoring
+Blood Viscosity
+Blood Volume
+Blood Volume Determination
+Blood Volume Determination
+Body Surface Potential Mapping
+Bridging Integrator 1
+Bridging Integrator 1
+CABG
+CACNA1D
+CADs
+CCB
+CCBs
+CPVT
+CRT
+CVA
+Ca/calmodulin-dependent protein kinase II 
+CaM
+CaM kinase II
+CaMKII
+Calcium/calmodulin-dependent protein kinase II
+Calcium Channel Blockers
+Calcium channel blockers
+Capillary Fragility
+Capillary Fragility
+Capillary Resistance
+Cardiac Catheterization
+Cardiac Output
+Cardiac Output
+Cardiac Purkinje cells
+Cardiac Valve Annuloplasty
+Cardiac Volume
+Cardiac pacemakers
+Cardio Ankle Vascular Index
+Cardiography, Impedance
+Cardiography, Impedance
+Cardiomyoplasty
+Cardioplegic Solutions
+Cardiotocography
+Cardiotonic Agents
+Cardiovascular Deconditioning
+Carotid Intima-Media Thickness
+Carotid Intima-Media Thickness
+Carotid Intima-Media Thickness
+Carotid-Femoral Pulse Wave Velocity
+Catecholaminergic polymorphic ventricular tachycardia
+Catheterization, Swan-Ganz
+Cationic amphiphilic drugs
+Central Venous Pressure
+Cerebral Angiography
+Cerebral Blood Volume
+Cerebrovascular disease
+Cineangiography
+Coronary Angiography
+Coronary Angiography 
+DBP
+DCA
+DCM
+DES
+DIPLD
+DM
+Deep vein thrombosis
+Digital Subtraction
+Diuretic
+Diving Reflex
+Drug-induced phospholipidosis
+Dysfunction of papillary muscle
+Dysfunction or rupture of papillary muscle
+EAD
+ECD
+ECG
+Early afterdepolarization
+Ebstein's anomaly
+Echocardiography
+Eisenmenger's syndrome
+Electrophysiologic Techniques
+Epicardial Mapping
+Erythrocyte Volume
+Exercise Test
+FRET
+Fibrinolytic Agents 
+Fluorescein Angiography
+Four-Dimensional 
+GHb
+Gated Blood-Pool Imaging
+Gated Blood-Pool Imaging
+HCM
+HDL-C
+HMG-CoA
+HMG-CoA reductase inhibitors 
+HbA1c 
+Heart Arrest Induced
+Heart Auscultation
+Heart Bypass
+Heart Function Tests
+Heart Function Tests
+Heart Massage
+Heart Rate
+Heart Rate Determination
+Heart Sounds
+Heart Transplantation
+Heart Valve Prosthesis Implantation
+Heart failure
+Heart rate variability
+Hemodynamic Monitoring
+Hemodynamic Monitoring
+Hemodynamics
+Hemorheology
+High density lipoprotein cholesterol
+High density lipoprotein cholesterol
+Hypertension
+I-K1
+ICD
+ICD
+IE
+ILE
+INa-L
+Inhibition of Cardiac Kir Current
+JPH2
+JTV-519
+Junctophilin-2
+K-ATP
+KATP
+KChIP2
+KD
+Kallikrein-Kinin System
+Keshan disease
+Kinetocardiography
+lysosome-associated membrane protein 2
+LAMP-2
+L-type Ca2+ channels
+L-type calcium channels
+LDL-C
+LEAD
+LTCCs
+LV outflow obstruction
+Laser-Doppler Flowmetry
+Laser-Doppler Flowmetry
+MI
+MIC
+Magnetic Resonance Angiography
+Magnetocardiography
+Marfan's syndrom
+Maze Procedure
+Microscopic Angioscopy
+Microscopic Angioscopy
+Multifocal atrial tachycardia
+Myocardial Contraction
+Myocardial Perfusion Imaging
+Myocardial Revascularization
+NCX
+NCX1
+NOAC
+NOAC
+Na+-K+ ATPase
+NKA
+K+ channel subfamily 2
+Kir2
+Na+/Ca2+ exchanger 1
+Na/Ca exchange
+Natriuretic Agents
+Nitric Oxide Donors
+Nonparoxysmal atrioventricular junctional tachycardia
+Norwood Procedures
+OGD
+OGD
+OXYGEN AND GLUCOSE DEPRIVATION 
+Obstructive sleep apnoea
+Oxidative stress
+Oximetry
+Oxygen-glucose deprivation
+PAT with block
+PBMV
+PBPV
+PCOS
+PCs
+PDA
+PDE5
+PEA
+PLC beta 1b
+PLM
+PM2.5
+PSVT
+PTCA
+PTCI
+PTCI
+PTSMA
+Paroxysmal supraventricular tachycardia
+Parv
+Percutaneous balloon pulmonic valvuloplasty
+Perfusion Index
+Perfusion Index
+Pericardial Window Techniques
+Pericardiectomy
+Pericardiocentesis
+Phlebography
+Phonocardiography
+Photoplethysmography
+Plasma Volume
+Plethysmography
+Plethysmography
+Plethysmography, Impedance
+Plethysmography, Whole Body
+Portal Pressure
+Portography 
+Potassium Channel Blockers
+Potassium Channel Interacting Protein 2
+Preexcitation syndrome
+Prinzmetal's variant angina pectoris
+Pulmonary Wedge Pressure
+Pulsatile Flow
+Pulse Wave Analysis
+Pulse Wave Analysis
+RAS
+RCM
+RCTS
+Radionuclide Angiography
+Radionuclide Ventriculography
+Radionuclide Ventriculography
+Renal physiology
+Renin-Angiotensin System
+Reperfusion 
+Respiratory Sinus Arrhythmia
+RyR
+RyR
+RyR2
+RyR2s
+RyRs
+Ryanodine Receptors 
+Ryanodine receptor
+SACT
+SACT
+SAM
+SAN
+SBP
+SERCA
+SHS
+SLC
+SND
+SNRT
+SERCA2a
+SNRT
+SR
+SSS
+Sarco(Endo)Plasmic Reticulum
+Catecholaminergic polymorphic ventricular tachycardia
+CPVT
+force-frequency relationship
+FFR
+sarco/endoplasmic reticulum Ca2+-dependent ATPase 2a
+ST elevated myocardial infarction
+STEMI
+Sclerosing Solutions
+Sino-atrial node
+Sinoatrial conduction time
+Sodium Channel Blockers
+Stem cell
+Stroke Volume
+Stroke Volume
+Vascular dementia
+Coronary artery disease
+Dilated cardiomyopathy
+DCM
+Alzheimer's disease
+chronic myeloid leukemia
+CML
+ventricular tachycardia
+Rheumatoid arthritis
+fractional shortening
+hypertrophic cardiomyopathy
+intestinal epithelial cells
+IECs
+endothelium-dependent relaxations
+EDRs
+natriuretic peptide
+right ventricular
+voltage-operated Ca2+ channels
+VOCC
+left ventricular
+calmodulin/calcium-calmodulin protein kinase II 
+CaM/CaMKII
+L-type Ca2+ channels 
+LTCCs
+salt-resistant consomic controls
+protein kinase A
+PKA
+left atrial myocardial infarction
+LAMI
+Ca transients
+CaT
+Brain natriuretic peptide
+transcription-polymerase chain reaction
+qRT-PCR
+Interferon regulatory factor 7
+pancreatic cancer-associated new-onset diabetes mellitus
+PaC-DM
+quantitative PCR
+temporal lobe epilepsy
+TLE
+low plane of nutrition
+glucocorticoid receptor
+sarcolemmal membrane-associated protein 
+SLMAP
+cryoelectron microscopy
+knockout
+LPN
+qPCR
+angiotensin II
+musclespecific mitsugumin 53
+polyethylene glycol-polyethyleneimine
+PEG/PEI
+squamous cell carcinoma
+cerebral ischemia/reperfusion
+human umbilical vein endothelial cells 
+HUVECs
+CIR
+SCC
+ATM
+telangiectasia mutated
+IRF7
+BNP
+ANP
+HCM
+FS
+RA
+Aneurysmal subarachnoid hemorrhage 
+aSAH
+Pheochromocytoma
+ischemia-reperfusion 
+cardiac fibroblasts
+CFs
+type 2 diabetes mellitus
+NSTEMI
+T2DM
+Arteriosclerosis obliterans
+non-ST elevation myocardial infarction
+ASO
+Drug-induced kidney injury
+DIKI
+Vascular Endothelial Growth Factor A
+VEGF-A
+Lung transplantation
+LT
+acute myocardial infarction
+Reactive oxygen species
+ROS
+transverse aortic constriction 
+TAC
+N-terminal pro-brain natriuretic peptide
+NT-proBNP
+stromal vascular cells
+SVCs
+hypoxia inducible factor la
+HIF1 alpha
+
+Diabetic retinopathy 
+DR
+PCC
+Dendritic cells 
+DCs
+TAVI
+cerebral amyloid angiopathy
+CAA
+Multiple myeloma
+MM
+TC
+TEC
+TG
+TS
+TT
+Tetralogy of Fallot
+Three-Dimensional 
+Tilt-Table Test
+Timothy Syndrome
+Timothy Syndrome
+Torsade-de-pointes
+Triacylglycerol
+Trilogy of Fallot
+Type 2 ryanodine receptors
+UCM
+VGCCs
+beta-Adrenergic receptor
+beta-AR
+2R33Q/R33Q
+L-type calcium channels
+LTCCs
+Caveolin-3
+Cav-3
+Junctophilin-2
+JP2
+VSD
+Plasma Membrane Calcium ATPases
+PMCAs
+REEP5
+Receptor Accessory Protein 5
+BVP
+Bilateral vestibulopathy
+T-type Ca2+ channel current
+ICa-T
+Long QT syndrome type 2 
+LQT2
+Sudden unexpected cardiac death
+SCD
+axial tubule
+AT
+
+SFR
+Adenosine triphosphate
+ATP
+cardiac arrest
+CA
+sinoatrial node 
+SAN
+Hypoxic-ischemic
+HI
+Beta-adrenergic receptors
+slow force response
+Valsalva Maneuver
+Valsalva Maneuver
+Vascular Capacitance
+Vascular Patency
+Vascular Remodeling
+Vascular Resistance
+Vascular Stiffness
+Vascular Surgical Procedures
+Vascular smooth muscle cells
+Vasoconstriction
+Vasoconstrictor Agents
+Vasodilation 
+Vasodilator Agents
+Vectorcardiography
+Venous Pressure
+Ventricular Function
+Ventricular Pressure
+Ventricular Pressure
+Ventricular Remodeling
+Ventriculography
+Voltage-gated Ca(V)1.2 channels
+Voltage-gated calcium channels
+Walk Test 
+Wenckebach block
+accelerated angina pectoris
+accelerated idioventricular rhythm
+accessory atrioventricular pathways
+acute coronary insufficiency
+acute coronary syndrom
+acute infective endocarditics
+acute left-sided heart failure
+acute mitral insufficiency
+acute myocardial infarction
+acute pericarditis
+adame-strokes syndrom
+adrenergic receptor stimulant
+afterdepolarization
+afterdepolarization
+air contamination
+air pollution
+alcoholic cardiomyopathy
+aldosterone antagonist
+alpha blocjers
+amiodarone
+angina decubitus
+angina pectoris
+angiojet rheolytic thrombectomy
+angiotensin converting enzyme inhibitor
+angiotension II antagonist
+angiotension II receptor blocker
+antiarrhythic drugs
+antioxidants
+antithymocyte globulin
+aortic dissection
+aortic incompetence
+aortic stenosis
+arrthythmogenic right ventricular cardiomyopathy
+arteriectasis
+arteriolosclerosis 
+artificial cardiac pacing
+aspirin
+asymmetric septal hypertrophy 
+atherosclerosis
+atherosclerotic renal artery stenosis
+atrial fibrillation
+atrial flutter
+atrial function
+atrial natriuretic factor
+atrial premature beats
+atrial pressure
+atrial remodeling
+atrial septal defect
+atrial septal defect
+atrial tachycardia
+atriohisian tracts
+atrioventricular block
+automatic atrial tachycardia
+beta blockers
+bets adrenergic receptor blocker
+biatrial pacing
+bifascicular block
+bifocal pacing
+biventricular pacing
+blood circulation
+blood pressure
+bradycardia
+bradycardia-tachycardia syndrome
+bradykinin
+brain death
+brainstem death
+cAMP
+cTnI
+calcium channel blocker
+calcium homoeostasis
+calmodulin	Calmodulin
+capillary fragility
+capillary permeability
+cardiac aneurysm
+cardiac arrest
+cardiac arrhythmia
+cardiac dysfunction
+cardiac electrophysiology
+cardiac hypertrophy
+cardiac repair
+cardiac troponin I
+cardiogenic shock
+cardiomyopathies
+cardiovascular neurosis
+cardioversion
+catheter ablation
+cerebral stroke
+cerebralvascular accident
+cerebrovascular circulation
+cerebrovascular disease
+chaotic atrial tachycardia
+chronic aortic insufficiency
+chronic heart failure
+chronic mitral insufficiency
+clofibrate
+coarctation of the aorta
+collateral circulation
+complete transposition of the great vessels
+congenital cardiovascular disease
+congenital heart disease
+congestive heart failure
+congestive heart failure
+constrictive pericarditis
+coronary artery bypass grafting
+coronary atherosclerotic heart disease
+coronary circulation
+coronary disease
+coronary heart disease
+corpulmonale
+cough-version
+defibrillation
+diabetes mellitus
+diastolic blood pressure
+diastolic insufficiency heart failure
+digitalis preparation
+digoxin
+dilated cardiomyopathy
+directional coronary atherectomy
+drug-eluting stent
+drug-induced cardiomyopathy
+dyslipidemia
+electrocardiogram
+embolism
+endemic cardiomyopathy
+endocarditis in intravenous drug abusers
+fasciculoventricular fibers
+fluorescence resonance energy transfer
+fractional flow reserve
+glycated hemoglobin
+heart transplantation
+hemodynamics
+hemolytic streptococcus
+holter ECG monitoring
+hypertension urgencyes
+hypertensive crisis
+hypertensive emergencies
+hypertrophic cardiomyopathy
+hypotensor
+idiopathic dilatation of the pulmonary artery
+implantable cardioverter defibrillator
+implatable cardioverter defibrillator
+infective endocarditis
+inflammation biomarkers
+initial onset angina pectoris
+inotropic agent
+insulin resistance
+interbentional therapy for cardiovascular diseases
+intermittent claudication
+intractable heart failure
+intravenous lipid emulsion therapy
+intraventricular block
+intrinsic heart rate
+intrinsic heart rate
+ion channels
+ischemic cardiomyopathy
+isolated dextrocardia
+isolated pulmonic stenosis
+isolated systolic hypertension
+lanatoside C
+laser angioplasty
+late I-Na
+late Na+ current
+late ventricular potential
+latent coronary heart disease
+left anterior fascicular block
+left bundle branch block
+left posterior fascicular block
+lidocaine
+liver circulation
+loop diuretic
+low density lipoproten-cholesterol
+microcirculation
+minimum inhibitory concentration
+mitral incompetence
+mitral stenosis
+mitral valve disease
+mmol/L
+multisite cardiac pacing
+multivalve heart disease
+myocardial infarction
+myocardial remodeling
+myocarditis
+native valve endocarditis
+neurovascular coupling
+new oral anticoagulant
+nicotinic acid
+nitroglycertin
+nodoventricular fibers
+nyocardial bridging
+paroxysmal atrial tachycardia with AV block
+partial anomalous pulmonary venous drainage
+parvalbumin
+patent ductus arteriosus 
+percutaneous balloon mitral valvuplasty
+percutaneous intracoronary stent implantation
+percutaneous transluminal coronary angioplasty
+percutaneous transluminal coronary intervention
+percutaneous transluminal septial myocardial ablation
+peripartum cardiomyopathy
+peripheral arteriolosclerosis obliteration
+persistent left superior vena cava
+phlebectasis
+phosphodiesterase 5
+phosphodiesterase inhibitor
+phospholemman 
+phospholipase C beta 1b
+physical inactivity
+placental circulation
+polycystic ovary syndrome
+population cohort
+postinfarction angina pectoris
+postinfarction syndrom
+postpericardiostomy syndrom
+potassium-sparing diuretic
+premature atrioventricular junctional beats
+premature ventricular beats
+primary arteritis of the aorta and its main branches
+primary hypertension
+primary pulmonary hypertension
+propafenone
+prothetic valve endocarditis
+pulmonary circulation
+pulmonary embolism
+pulmonary heart disease
+pulmonary incompetence
+pulmonary stenosis
+pulmonic stenosis
+pulmonic valve disease
+pulness disease
+pulseless electrical activity
+pulsus tardus
+purulent pericarditis
+radiofrequency catheter ablation
+randomised controlled trials
+raynaud syndrom
+recombinant tissue type plasminogen activator
+reentrant atrial tachycardia
+regional blood flow
+renal arterial stenosis
+renal blood flow
+renal circulation
+renal plasma flow
+restrictive cardiomyopathy
+revascularization
+rheumatic carditis
+rheumatic fever
+rheumatic heart disease
+right bundle branch block
+right ventricular cardiomyopathy
+risk factor
+room air pollution
+rt-PA
+rupture of papillary muscle
+rupture of the heart
+ryanodine receptor
+ryanodine receptor 
+sarco/endoplasmic reticulum calcium ATPase
+sarcoplasmic reticulum
+second hand smoke 
+secondary hypertension
+sick sinus syndrome
+sinoatrial block
+sinoatrial conduction time 
+sinus arrest
+sinus bradycardia
+sinus node dysfunction
+sinus node recovery time
+sinus node recovery time 
+sinus pause
+sinus tachycardia
+smoking
+sodium-lithium countertransport 
+specific cardiomyopathy
+splanchnic circulation
+stable angina pectoris
+statins
+subacute infective endocarditis
+sudden cardiac death
+sudden death
+syncope
+syndrom X
+syphlitic cardiovascular disease
+systolic anterior motion
+systolic blood pressure
+systolic insufficiency heart failure
+tachycardia
+thiazide diuretic
+thromboangitis obliterans
+thrombophlebitis 
+thumpversion
+torsades de pointes
+total cholesterol
+transluminal extraction catheter
+transverse tubule
+tricuspid incompetence
+tricuspid stenosis
+tricuspid valve disease
+trifascicular block
+triggered activity
+triggered activity
+tuberculous pericarditis
+ultrasound angioplasty
+unclassified cardiomyopathies
+unhealthy diets
+unstable angina pectoris
+upright tilt-table testing
+vagus nerve
+valve heart disease
+valvular heart disease
+variant angina pectoris
+vasodepressor response
+vasodilator
+vasopressin
+ventricular fibrillation
+ventricular flutter
+ventricular parasystole
+ventricular septal defect
+ventricular teachycardia
+ventriculography 
+viral myocarditis
+wolff-parkinson-white syndrome
